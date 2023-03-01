@@ -2,5 +2,6 @@
 
 hello its ira 
 
-I am a beginner programmer //https://github.com/IrasMark
-add origin https://media.discordapp.net/attachments/1073727774038171648/1080149584149483680/image.png?width=1440&height=611
+I am a beginner programmer //https://github.com/IrasMark//
+
+![image](https://user-images.githubusercontent.com/92443953/222239927-e2fcd8d8-60c0-4236-8cc4-f7bd4c0198c7.png)
